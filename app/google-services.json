@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144015513726",
+    "firebase_url": "https://onlineshopping-85fee.firebaseio.com",
+    "project_id": "onlineshopping-85fee",
+    "storage_bucket": "onlineshopping-85fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144015513726:android:2c572263138ec180f8e02f",
+        "android_client_info": {
+          "package_name": "com.example.online_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144015513726-4s033qe4aptu8e2k5kh9kunueljf1c7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_shopping",
+            "certificate_hash": "5f91738b1e2543b0536397cfba61bbdad1ac7cd6"
+          }
+        },
+        {
+          "client_id": "144015513726-h0kl0sj3k8l074g01278h3267hqdevbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOLvoEqCQzuFk0BRxbTcRIAKJafr5AuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144015513726-h0kl0sj3k8l074g01278h3267hqdevbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
